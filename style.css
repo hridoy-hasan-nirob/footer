@@ -1,0 +1,24 @@
+.container-fulid a{
+    text-decoration: none;
+    text-decoration-style: none; 
+    color: white;
+}
+.container-fulid{
+    background-color: #3db83a;;
+}
+.container-fulid a:hover {
+    color: black;
+}
+.col-4{
+    color: brown;
+}
+
+
+#col-1 a{
+
+  
+}
+  #last.col-12 p{
+margin:0 auto;
+   
+}
